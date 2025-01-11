@@ -1,23 +1,15 @@
-#Portfolio Website
+Portfolio Website
+This is my personal portfolio website, where I showcase my skills, projects, and achievements as an engineering student.
 
-This is my personal portfolio website. It showcases my skills, projects, and achievements as an engineering student.
+Features
+About Me section
+Projects I have worked on
+My skills and contact information
+How to View
+To view the website locally, open the index.html file in a browser.
 
-##Features
-
--About Me section
-
--Projects I have worked on
-
--My skills and contact information
-
-##How to View
-
-Just open the index.html file in a browser to view the website locally.
-
-##Contact
-
+Contact
 Feel free to reach out to me:
 
-**Email**: harishdeore766@gmail.com
-
-**LinkedIn**: http://www.linkedin.com/in/harishdeore
+Email: harishdeore766@gmail.com
+LinkedIn: linkedin.com/in/harishdeore
