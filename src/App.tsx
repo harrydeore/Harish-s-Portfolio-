@@ -52,7 +52,7 @@ function App() {
             <div className="relative">
             <div className="w-64 h-64 mx-auto rounded-full overflow-hidden border-4 border-blue-500">
               <img
-              src="Harry.jpg"
+              src="images/Harry.jpg"
               alt="Profile"
               className="w-full h-full object-cover"
               />
