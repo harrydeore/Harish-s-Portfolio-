@@ -26,7 +26,7 @@ function App() {
                 Get in Touch
               </a>
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1wbRY85LP_HGwUqfbtVcT9DME7dHXtRhu/view?usp=drive_link"
                 className="bg-slate-700 hover:bg-slate-600 text-white px-8 py-3 rounded-full inline-flex items-center gap-2 transition-all hover:shadow-lg"
               >
                 <Download size={20} />
